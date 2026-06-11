@@ -12,9 +12,9 @@
 
 ### About Me
 
-I'm a passionate **1st year engineering student** from **Noida, India** — at the very beginning of my tech journey. I believe in learning by doing, and I'm committed to building my skills one project at a time.
+I'm a passionate **2nd year engineering student** from **Noida, India** — at the very beginning of my tech journey. I believe in learning by doing, and I'm committed to building my skills one project at a time.
 
-- 🎓 **Education:** B.Tech | 1st Year · 2nd Semester  
+- 🎓 **Education:** B.Tech | 2nd Year · 3rd Semester  
 - 📍 **Location:** Noida, India  
 - 🌱 **Currently Learning:** Python, C, C++ (OOPs), Data Science, AI & ML, Linux  
 - 💡 **Interests:** Artificial Intelligence, Data Science, Open Source  
