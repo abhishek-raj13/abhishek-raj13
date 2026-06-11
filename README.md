@@ -3,7 +3,7 @@
 <h1>Hi there, I'm Abhishek Raj Bharti 👋</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Engineering+Student+%7C+1st+Year;Python+%7C+C+%7C+C%2B%2B+%7C+AI+%26+ML;Learning+Every+Single+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&width=435&lines=Engineering+Student+%7C+2nd+Year;Python+%7C+C+%7C+C%2B%2B+%7C+AI+%26+ML;Learning+Every+Single+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 </div>
